@@ -7,6 +7,6 @@ From September 2017 to June 2021, I obtained a B.Sc. in Statistics at [Xiamen Un
 
 My doctoral research focuses on limit theorems, high dimensional statistical inference, and statistical theory for climate change studies.
 
-I am actively seeking a postdoctoral position in mathematical statistics and related fields. Any leads, information, or advice would be greatly appreciated.
+I am actively seeking a postdoctoral position in mathematical statistics and related fields. Any leads, information, and/or advice would be greatly appreciated.
 
 Email: jkqiu@stu.pku.edu.cn
