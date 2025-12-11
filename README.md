@@ -11,4 +11,4 @@ I am actively seeking a postdoctoral position in mathematical statistics and rel
 
 Email: jkqiu@stu.pku.edu.cn
 
-![](/29-.jpg)
+![](/29-2.jpg)
