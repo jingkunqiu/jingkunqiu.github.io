@@ -1,4 +1,4 @@
 
 # Jingkun Qiu
 
-[Home](README.md) |  [Publications](https://scholar.google.com/citations?user=5B0mXiQAAAAJ) | [Awards](AWARDS.md) | [Presentations](TALKS.md)
+**Home** |  [Publications](https://scholar.google.com/citations?user=5B0mXiQAAAAJ) | [Awards](AWARDS.md) | [Presentations](TALKS.md)
