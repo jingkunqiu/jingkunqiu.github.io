@@ -18,6 +18,4 @@
   * **Invited Session 24CHI37: High-Dimensional Data Analysis and Variable Selection**
     * *Self-Normalized Cramér Type Moderate Deviation Theorem for Gaussian Approximation.*
 
-<br><br><br><br>
-
 ![](/29-p.jpg)
