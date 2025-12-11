@@ -1,5 +1,5 @@
 # Jingkun Qiu
-**About** | [Publications](https://scholar.google.com/citations?user=5B0mXiQAAAAJ) | [Awards](Awards.md) | [Presentations](Presentations.md)
+**About** | [Publications](https://scholar.google.com/citations?user=5B0mXiQAAAAJ) | [Awards](awards.md) | [Presentations](presentations.md)
 
 Hi, there. I am Jingkun Qiu (丘竞昆), a fifth-year Ph.D. Candidate in Statistics at [Peking University](https://www.gsm.pku.edu.cn/statistic/) under the supervision of Professor [Song Xi Chen (陈松蹊)](https://www.songxichen.com). I am expected to graduate in June 2026.
 
