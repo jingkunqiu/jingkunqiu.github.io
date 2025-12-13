@@ -14,7 +14,7 @@
 * July 6-8, 2024 [IMS China Meeting](https://conferences.koushare.com/2024IMS) in Yinchuan, China
   * **Contributed Session CS015: High Dimensional Statistical Inference**
     * *Beyond Detection Boundary: Minimax Deficiency for Two-Sample Mean Tests in High Dimensions.*
-* June 28-30, 2024 [ICSA 2024 China Conference](https://icsa.zuel.edu.cn) in Wuhan, China
+* June 28-30, 2024 [ICSA China Conference](https://icsa.zuel.edu.cn) in Wuhan, China
   * **Invited Session 24CHI37: High-Dimensional Data Analysis and Variable Selection**
     * *Self-Normalized Cramér Type Moderate Deviation Theorem for Gaussian Approximation.*
 
