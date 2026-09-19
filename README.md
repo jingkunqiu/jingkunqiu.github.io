@@ -9,8 +9,8 @@ Prior to that, I obtained a B.Sc. in Statistics at [Xiamen University](https://s
 
 My research interests include limit theorems, high dimensional statistical inference, and statistical theory for climate change studies.
 
-Email: jingkun.qiu@kuleuven.be\\
-Previous: jkqiu@stu.pku.edu.cn (Valid until Dec 2026)\\
+Email: jingkun.qiu@kuleuven.be  
+Previous: jkqiu@stu.pku.edu.cn (Valid until Dec 2026)  
 Permanent: jkqiu@stu.xmu.edu.cn
 
 ![](/29-2.jpg)
