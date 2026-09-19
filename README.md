@@ -1,14 +1,16 @@
 # Jingkun Qiu
 **About** | [Publications](https://scholar.google.com/citations?user=5B0mXiQAAAAJ) | [Awards](awards.md) | [Presentations](presentations.md)
 
-Hi, there. I am Jingkun Qiu (丘竞昆), a fifth-year Ph.D. Candidate in Statistics at [Peking University](https://www.gsm.pku.edu.cn/statistic/) under the supervision of Professor [Song Xi Chen (陈松蹊)](https://www.songxichen.com). I am expected to graduate in June 2026.
+Hi, there. I am Jingkun Qiu (丘竞昆), a Postdoc at [KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00187394) under the supervision of Professor [Ingrid Van Keilegom](https://www.kuleuven.be/wieiswie/en/person/00062045).
+
+Prior to that, I obatined a Ph.D. in Statistics at [Peking University](https://www.gsm.pku.edu.cn/statistic/) under the supervision of Professor [Song Xi Chen (陈松蹊)](https://www.songxichen.com) in June 2026.
 
 Prior to that, I obtained a B.Sc. in Statistics at [Xiamen University](https://stats.xmu.edu.cn/) in June 2021.
 
-My doctoral research focuses on limit theorems, high dimensional statistical inference, and statistical theory for climate change studies.
+My research interests include limit theorems, high dimensional statistical inference, and statistical theory for climate change studies.
 
-**I am actively seeking a postdoctoral position in mathematical statistics, data science, and related fields. Any leads, information, and/or advice would be greatly appreciated.**
-
-Email: jkqiu@stu.pku.edu.cn
+Email: jingkun.qiu@kuleuven.be (Primary)
+       jkqiu@stu.pku.edu.cn (Valid until Dec 2026)
+       jkqiu@stu.xmu.edu.cn (Permanent)
 
 ![](/29-2.jpg)
